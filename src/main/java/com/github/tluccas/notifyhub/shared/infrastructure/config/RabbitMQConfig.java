@@ -1,4 +1,4 @@
-package com.github.tluccas.notifyhub.config;
+package com.github.tluccas.notifyhub.shared.infrastructure.config;
 
 import org.springframework.amqp.core.QueueBuilder;
 import org.springframework.amqp.core.TopicExchange;
