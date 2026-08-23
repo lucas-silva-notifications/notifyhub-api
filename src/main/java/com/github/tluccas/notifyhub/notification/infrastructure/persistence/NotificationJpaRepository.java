@@ -1,4 +1,4 @@
-package com.github.tluccas.notifyhub.notification.infraestructure.persistence;
+package com.github.tluccas.notifyhub.notification.infrastructure.persistence;
 
 import java.util.UUID;
 
